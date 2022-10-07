@@ -1,4 +1,4 @@
-// Spiral of Theodorus (1.0) by exosZoldyck
+# Spiral of Theodorus (1.0) by exosZoldyck
 
 import turtle
 import math
